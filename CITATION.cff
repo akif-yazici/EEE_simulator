@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: EEE_simulator
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Mehmet Akif
+    family-names: Yazici
+    email: yazicima@itu.edu.tr
+    affiliation: Istanbul Technical University
+    orcid: 'https://orcid.org/0000-0002-9965-2329'
+repository-code: 'https://github.com/akif-yazici/EEE_simulator'
+abstract: >-
+  A simulator for Energy Efficient Ethernet (IEEE 802.3az)
+  operation with frame count and timer-based frame
+  coalescing
+keywords:
+  - energy efficient ethernet
+  - energy efficiency
